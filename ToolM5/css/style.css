@@ -1,0 +1,124 @@
+*{
+    font-family: roboto;
+}
+.btn .sam
+{
+    background-color: #a8d741;
+    transition: 0.3s;
+}
+.btn button:hover
+{
+    background: white;
+    transform: rotate(10deg) scale(1.11);
+    box-shadow: 0 0 7px;
+}
+.container
+{
+    background-color: #a8d741;
+}
+.header
+{
+    background-color: #a8d741;
+}
+.hem
+{
+    background-color:black;
+    color: white;
+}
+.get .hem:hover
+{
+    background:white;
+    color: black;
+    transform: rotate(10deg);
+    transition: all 0.2s ease-in-out;    
+}
+.btn .tam:hover
+{
+    background: #a8d741;
+    transform: rotate(10deg) scale(1.11);
+    box-shadow: 0 0 7px;
+    transition: 0.3s;
+}
+.round_2
+{
+    border-radius: 10%;
+}
+.div_2 .img
+{
+    overflow: hidden;
+}
+.sqaure_1
+{
+  background: #a8d741;
+  border-radius: 10px;
+}
+.fam:hover
+{
+    transform: rotate(-1deg) scale(1);
+    transition:0.5s;
+    box-shadow: 0 0 7px;
+}
+.med
+{
+    background-color: #a8d741;
+    transition: 0.3s;  
+}
+.med:hover
+{
+            
+    background: white;
+    transform: rotate(10deg) scale(1.11);
+    box-shadow: 0 0 7px;
+}
+.action
+{
+    background: #a8d741; 
+}
+.youtube
+{
+    color: #a8d741;
+    top: 45%;
+    left: 45%;
+}
+.youtube:hover
+{
+    color: darkgray;
+}
+.dom
+{
+    background: #eeeeee;
+}
+.dom:hover
+{
+    transform: rotate(-1deg) scale(1.02);
+    transition:1s;
+    box-shadow: 0 0 7px;
+}
+.our
+{
+    padding-top: 100px;
+}
+.dev
+{
+    height: 2px;
+    width: 0%;
+    background-color: black;
+    left: 0;
+    transition: 0.5s;
+}
+a:hover .dev
+{
+    width: 100%;
+}
+.message
+{
+    padding-top: 50px;
+}
+.inp
+{
+    background: #a8d741;
+}
+.fam
+{
+     background: #eeeeee;
+}
